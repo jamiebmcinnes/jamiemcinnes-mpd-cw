@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E3192</color>
+    <color name="colorPrimaryDark">#101246</color>
+    <color name="backgroundColor">#fcfcfc</color>
+    <color name="lightgreyline">#ededed</color>
+    <color name="darkgreyline">#b1b1b1</color>
+    <color name="deepRed">#B33A3A</color>
+    <color name="deepBlue">#2B3192</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
